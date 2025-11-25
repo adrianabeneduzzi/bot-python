@@ -7,5 +7,10 @@ def retorna_antecessor_e_sucessor(numero):
 
     return antecessor, sucessor
 
+def funcao_none():
+    print("Olá none!")
+    return None
+
 print(calcular_total([10,20,34]))
 print(retorna_antecessor_e_sucessor(10))
+print(funcao_none())
