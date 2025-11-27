@@ -25,7 +25,7 @@ exibir_poema(
     "Although never is often better than *right* now.",
     "If the implementation is hard to explain, it's a bad idea.",
     "If the implementation is easy to explain, it may be a good idea.",
-    "Namespaces are one honking great idea -- let's do more of those!", #valor separado por virgula
-    autor="Tim Peters", #chave e valor
+    "Namespaces are one honking great idea -- let's do more of those!", #valor separado por virgula - args
+    autor="Tim Peters", #chave e valor - kwargs
     ano=1999,
 )
