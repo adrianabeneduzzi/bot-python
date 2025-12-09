@@ -9,3 +9,5 @@ def principal():
 
     funcao_interna()
     funcao_2()
+
+principal()
